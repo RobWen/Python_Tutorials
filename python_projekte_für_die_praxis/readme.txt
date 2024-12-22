@@ -7,4 +7,3 @@ In dieser Datei befinden sich alle Beispiele, Lösungen und Projekte aus dem Buc
 --> 3_gui_programmierung: 	Hier findest du alle Lösungen zu den Übungsaufgaben aus Kapitel 3.
 
 Ich wünsche dir nun viel Spaß beim Umsetzen der Projekte :) 
-Florian Dalwigk
